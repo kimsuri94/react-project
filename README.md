@@ -13,6 +13,8 @@ https://www.youtube.com/@inbrozz/videos
 
 https://www.youtube.com/watch?v=00yJy7W0DQE&t=11s
 
+https://www.youtube.com/@starcoding/videos
+
 #강의
 
 https://webstoryboy.co.kr/1964
