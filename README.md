@@ -1,6 +1,9 @@
 # react-project
 
 
+[강의]
+https://webstoryboy.co.kr/1964
+
 # 나만의 유튜브 사이트 만들기
 
 이 강의는 React 프레임워크와 YouTube API를 이용하여 자신만의 간단한 영상 사이트를 만듭니다. React의 기본 개념을 이해하고, 컴포넌트를 구조화하고 상태를 관리하는 방법을 학습하며, 
