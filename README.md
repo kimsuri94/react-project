@@ -11,6 +11,8 @@ https://github.com/Boin-Kau/learn-react-with-simple-demo/tree/main/react-radio-g
 
 https://www.youtube.com/@inbrozz/videos
 
+https://www.youtube.com/watch?v=00yJy7W0DQE&t=11s
+
 #강의
 
 https://webstoryboy.co.kr/1964
