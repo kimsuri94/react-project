@@ -1,14 +1,14 @@
 # react-project
 
 
-[참고]
+# 참고
 Styled-Components 활용 예제 - 라디오 그룹 화면 만들기
 https://github.com/Boin-Kau/learn-react-with-simple-demo/tree/main/react-radio-group-demo
 
-[유튜브]
+#유튜브
 https://www.youtube.com/@inbrozz/videos
 
-[강의]
+#강의
 https://webstoryboy.co.kr/1964
 
 # 나만의 유튜브 사이트 만들기
