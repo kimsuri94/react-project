@@ -7,6 +7,10 @@ Styled-Components 활용 예제 - 라디오 그룹 화면 만들기
 
 https://github.com/Boin-Kau/learn-react-with-simple-demo/tree/main/react-radio-group-demo
 
+## 리액트 문서
+
+https://ko.legacy.reactjs.org/docs/getting-started.html
+
 # 유튜브
 
 https://www.youtube.com/@inbrozz/videos
