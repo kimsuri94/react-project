@@ -17,7 +17,7 @@ https://ko.legacy.reactjs.org/docs/getting-started.html
   https://codesandbox.io/s/magical-gauss-mhejs?file=/src/App.js
 
 - Styled-Components 활용 예제 - 라디오 그룹 화면 만들기           
-  https://www.youtube.com/watch?v=W9m_bOC80qE&t=241s
+  https://www.youtube.com/watch?v=W9m_bOC80qE&t=241s                    
   https://github.com/Boin-Kau/learn-react-with-simple-demo/tree/main/react-radio-group-demo
 
 
