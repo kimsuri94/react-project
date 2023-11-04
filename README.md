@@ -20,8 +20,9 @@ https://www.youtube.com/watch?v=00yJy7W0DQE&t=11s
 https://www.youtube.com/@starcoding/videos
 
 # Styled Components
-Styled Components 전역 스타일링 (Global Style)        
-https://www.daleseo.com/styled-components-global-style/
+
+Styled Components 전역 스타일링 (Global Style)    https://www.daleseo.com/styled-components-global-style/       
+
 
 
 # 강의
