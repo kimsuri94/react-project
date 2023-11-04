@@ -9,7 +9,10 @@ https://ko.legacy.reactjs.org/docs/getting-started.html
 
 ## Styled Components
 
-Styled Components 전역 스타일링 (Global Style)    https://www.daleseo.com/styled-components-global-style/                                                
+- Styled Components 전역 스타일링 (Global Style)
+  https://www.daleseo.com/styled-components-global-style/
+  https://www.youtube.com/watch?v=W9m_bOC80qE&t=241s
+                                               
 https://www.youtube.com/watch?v=tkwcxlkS1uA&t=615s                        
 https://codesandbox.io/s/magical-gauss-mhejs?file=/src/App.js
 
