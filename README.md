@@ -3,13 +3,19 @@
 
 # 참고
 
-Styled-Components 활용 예제 - 라디오 그룹 화면 만들기
-
-https://github.com/Boin-Kau/learn-react-with-simple-demo/tree/main/react-radio-group-demo
-
 ## 리액트 문서
 
 https://ko.legacy.reactjs.org/docs/getting-started.html
+
+## Styled Components
+
+Styled Components 전역 스타일링 (Global Style)    https://www.daleseo.com/styled-components-global-style/                                                
+https://www.youtube.com/watch?v=tkwcxlkS1uA&t=615s                        
+https://codesandbox.io/s/magical-gauss-mhejs?file=/src/App.js
+
+Styled-Components 활용 예제 - 라디오 그룹 화면 만들기
+
+https://github.com/Boin-Kau/learn-react-with-simple-demo/tree/main/react-radio-group-demo
 
 # 유튜브
 
@@ -18,13 +24,6 @@ https://www.youtube.com/@inbrozz/videos
 https://www.youtube.com/watch?v=00yJy7W0DQE&t=11s
 
 https://www.youtube.com/@starcoding/videos
-
-# Styled Components
-
-Styled Components 전역 스타일링 (Global Style)    https://www.daleseo.com/styled-components-global-style/                                                
-https://www.youtube.com/watch?v=tkwcxlkS1uA&t=615s                        
-https://codesandbox.io/s/magical-gauss-mhejs?file=/src/App.js
-
 
 
 # 강의
